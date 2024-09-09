@@ -1,0 +1,17 @@
+html{
+    font-size: 16px;
+}
+body{
+    font-family: 'Roboto',sans-serif;
+    background-color: bisque;
+}
+a {
+    color: beige;
+}
+a:hover{
+    color: aqua;
+}
+/*header*/
+.navbar-light .navbar-nav .nav-link{
+    color: brown;
+}
